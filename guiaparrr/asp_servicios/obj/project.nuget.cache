@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMWZwT5zbgM=",
+  "dgSpecHash": "+mFRUivjKT8=",
   "success": true,
-  "projectFilePath": "C:\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
+  "projectFilePath": "C:\\prueba_proyec\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Autokars\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Autokars\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

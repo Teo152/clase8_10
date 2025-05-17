@@ -4830,11 +4830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
+      "projectUniqueName": "C:\\prueba_proyec\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
       "projectName": "asp_servicios",
-      "projectPath": "C:\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
+      "projectPath": "C:\\prueba_proyec\\guiaparrr\\asp_servicios\\asp_servicios.csproj",
       "packagesPath": "C:\\Users\\Autokars\\.nuget\\packages\\",
-      "outputPath": "C:\\guiaparrr\\asp_servicios\\obj\\",
+      "outputPath": "C:\\prueba_proyec\\guiaparrr\\asp_servicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4856,14 +4856,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\guiaparrr\\lib_aplicaciones\\lib_aplicaciones.csproj": {
-              "projectPath": "C:\\guiaparrr\\lib_aplicaciones\\lib_aplicaciones.csproj"
+            "C:\\prueba_proyec\\guiaparrr\\lib_aplicaciones\\lib_aplicaciones.csproj": {
+              "projectPath": "C:\\prueba_proyec\\guiaparrr\\lib_aplicaciones\\lib_aplicaciones.csproj"
             },
-            "C:\\guiaparrr\\lib_dominio\\lib_dominio.csproj": {
-              "projectPath": "C:\\guiaparrr\\lib_dominio\\lib_dominio.csproj"
+            "C:\\prueba_proyec\\guiaparrr\\lib_dominio\\lib_dominio.csproj": {
+              "projectPath": "C:\\prueba_proyec\\guiaparrr\\lib_dominio\\lib_dominio.csproj"
             },
-            "C:\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj": {
-              "projectPath": "C:\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj"
+            "C:\\prueba_proyec\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj": {
+              "projectPath": "C:\\prueba_proyec\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj"
             }
           }
         }

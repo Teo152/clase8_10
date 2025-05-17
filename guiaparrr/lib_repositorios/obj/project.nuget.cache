@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tVy6NFvR1A=",
+  "dgSpecHash": "auSMXp4bsS4=",
   "success": true,
-  "projectFilePath": "C:\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj",
+  "projectFilePath": "C:\\prueba_proyec\\guiaparrr\\lib_repositorios\\lib_repositorios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Autokars\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Autokars\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

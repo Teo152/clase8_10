@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\guiaparrr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\implementaciones\\auditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\auditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|c:\\guiaparrr\\lib_dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\interfaces\\iauditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iauditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|c:\\guiaparrr\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\interfaces\\ifacturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\ifacturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\interfaces\\iauditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iauditoriaaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|c:\\guiaparrr\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|c:\\guiaparrr\\lib_dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|c:\\guiaparrr\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94287AF9-A6C8-4689-8A6F-5E1F098B2E2E}|asp_servicios\\asp_servicios.csproj|c:\\guiaparrr\\asp_servicios\\controllers\\auditoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_repositorios\\Migrations\\20250424143043_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|c:\\guiaparrr\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F95E582-4249-4D58-8611-F3E294399C08}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\guiaparrr\\lib_repositorios\\Migrations\\20250424142736_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_repositorios\\Migrations\\20250424142736_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\zapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|c:\\guiaparrr\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEC68BB5-C219-4E33-BF18-E580347CCF8E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\guiaparrr\\lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A32BC82C-133B-4B59-A296-449F17A4323D}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94287AF9-A6C8-4689-8A6F-5E1F098B2E2E}|asp_servicios\\asp_servicios.csproj|c:\\guiaparrr\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,59 +114,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuditoriaAplicacion.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs*",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AuditoriaAplicacion.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T14:37:01.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IAuditoriaAplicacion.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs*",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAuditoriaAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T14:35:50.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuditoriaController.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\asp_servicios\\Controllers\\AuditoriaController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\AuditoriaController.cs",
-              "ToolTip": "C:\\guiaparrr\\asp_servicios\\Controllers\\AuditoriaController.cs*",
-              "RelativeToolTip": "asp_servicios\\Controllers\\AuditoriaController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T14:34:18.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FacturasController.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\asp_servicios\\Controllers\\FacturasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FacturasController.cs",
-              "ToolTip": "C:\\guiaparrr\\asp_servicios\\Controllers\\FacturasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\FacturasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:55:12.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FacturasAplicacion.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
@@ -179,20 +153,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_repositorios\\Interfaces\\IConexion.cs*",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\guiaparrr\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T05:39:28.259Z",
+              "WhenOpened": "2025-04-24T05:09:49.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ZapatosAplicacion.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:58:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IZapatosAplicacion.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:00:39.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFacturasAplicacion.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
+              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:47:05.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Auditoria.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_dominio\\Entidades\\Auditoria.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Auditoria.cs",
@@ -206,6 +219,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\guiaparrr\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:39:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditoriaController.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\asp_servicios\\Controllers\\AuditoriaController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\AuditoriaController.cs",
+              "ToolTip": "C:\\guiaparrr\\asp_servicios\\Controllers\\AuditoriaController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\AuditoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:34:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\guiaparrr\\asp_servicios\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\guiaparrr\\asp_servicios\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:55:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\guiaparrr\\asp_servicios\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ProductosController.cs",
@@ -218,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "20250424143043_migration1.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Migrations\\20250424143043_migration1.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Migrations\\20250424143043_migration1.cs",
@@ -231,33 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFacturasAplicacion.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IFacturasAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:47:05.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T05:09:49.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250424142736_migration1.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Migrations\\20250424142736_migration1.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Migrations\\20250424142736_migration1.cs",
@@ -270,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Facturas.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_dominio\\Entidades\\Facturas.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Facturas.cs",
@@ -283,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Configuracion.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_repositorios\\Nucleo\\Configuracion.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Nucleo\\Configuracion.cs",
@@ -296,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Zapatos.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_dominio\\Entidades\\Zapatos.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Zapatos.cs",
@@ -309,20 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IZapatosAplicacion.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T14:00:39.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DatosGenerales.cs",
               "DocumentMoniker": "C:\\guiaparrr\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
@@ -331,19 +344,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T14:16:43.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ZapatosAplicacion.cs",
-              "DocumentMoniker": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "ToolTip": "C:\\guiaparrr\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:58:31.013Z",
               "EditorCaption": ""
             },
             {
