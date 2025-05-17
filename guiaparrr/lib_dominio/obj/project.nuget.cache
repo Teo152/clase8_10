@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CC6sCMLN++Q=",
+  "success": true,
+  "projectFilePath": "C:\\guiaparrr\\lib_dominio\\lib_dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Autokars\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
